@@ -9,7 +9,7 @@ Belajar Git
     $git add .
     $git add <nama file> 
     ```  
-2. kita permanenkan pencatatannya (commit)
+3. kita permanenkan pencatatannya (commit)
     ```
     $git commit -m 'initial commit' .
     $git commit -m 'penambahan keterangan' <nama file> 
