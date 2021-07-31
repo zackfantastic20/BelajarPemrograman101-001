@@ -17,3 +17,7 @@ Belajar Git
     ```
     $git status
     ```
+5. Membeuat Public key ssh
+    ```
+    $ssh-keygen
+    ```
