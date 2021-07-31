@@ -13,3 +13,7 @@ Belajar Git
     ```
     $git commit -m 'initial commit' .
     $git commit -m 'penambahan keterangan' <nama file> 
+4. untuk mengecek perintahnya
+    ```
+    $git status
+    ```
